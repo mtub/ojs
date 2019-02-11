@@ -21,7 +21,7 @@
 	 *  INTERFACE - Contains phrases organized by the section of the
 	 *              user interface they appear in.
 	 *  LOG - Contains phrases related to log entries
-	 *  MISC - Entries that don't belong andre steder.
+	 *  MISC - Entries that don't belong elsewhere.
 	 *  DEFAULT - Default settings for configuration items.
 	-->
 
