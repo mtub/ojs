@@ -4,15 +4,14 @@
 <!--
   * locale/nb_NO/manager.xml
   *
-  * Copyright (c) 2014-2016 Simon Fraser University Library
-  * Copyright (c) 2003-2016 John Willinsky
+  * Copyright (c) 2013-2018 Simon Fraser University
+  * Copyright (c) 2003-2018 John Willinsky
   * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
-  *
-  * Localization strings for the nb_NO (Norsk bokmål) locale.
-  *
+  * Localization information: https://pkp.sfu.ca/wiki/index.php?title=Translating_OxS
+  * Localization strings.
   -->
 
-<locale name="nb_NO" full_name = "Norwegian">
+<locale name="nb_NO" full_name="Norsk bokmål">
 	<message key="manager.emails.confirmResetAll">Er du sikker på at du vil tilbakestille alle de e-postmalene  i dette tidsskriftet? Du vil miste alle tilpasninger du har gjort.</message>
 	<message key="manager.files.note">Merk: Filutforskeren er en avansert funksjon som gir mulighet til å se og å manipulere filene og mappene til tidsskriftet direkte.</message>
 	<message key="manager.groups">Redaksjon</message>
